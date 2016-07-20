@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It seems to be a folder with some files inside
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It's like the part between Dante's Hell and Paradise. 
